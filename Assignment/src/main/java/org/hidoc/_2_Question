@@ -1,0 +1,10 @@
+1. Save your Java code in a file
+
+2. Open a terminal and navigate to the directory where your Java file is saved.
+
+3. Compile the Java file using the javac command:
+   "javac _1_Question.java" //Taking reference of 1st question class name
+
+4. Run the compiled Java class using the java command:
+   "java _1_Question"
+
